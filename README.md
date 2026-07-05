@@ -5,10 +5,14 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+LLMs+%7C+RAG+Pipelines;Agentic+AI+%7C+LangGraph+%7C+CrewAI;MLOps+%7C+FastAPI+%7C+Azure+AI+Services;NLP+%7C+PyTorch+%7C+Transformer+Fine-tuning;Turning+Research+into+Production-Grade+AI" alt="Typing SVG" />
 </a>
+
 <br/><br/>
+
 <!-- Certification badges -->
+
 ![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-Generative%20AI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Claude Architect](https://img.shields.io/badge/Claude%20Certified-Architect%20CCA--F-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+
 <br/><br/>
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-257b74264/)
