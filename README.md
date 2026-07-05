@@ -9,15 +9,10 @@
 <br/>
 
 <!-- Credly Certification Badges -->
-<a href="https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/51d357d9-d6b5-48ca-a33e-b0ec98926ec4/image.png" alt="AWS Certified Generative AI Developer Professional" width="110" height="110" title="AWS Certified Generative AI Developer – Professional"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/fe64520b-548b-4040-82e7-b95d6cfe9fbc/image.png" alt="Claude Certified Architect CCA-F" width="110" height="110" title="Claude Certified Architect – CCA-F"/>
-</a>
+[![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-Generative%20AI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
+[![Claude Architect](https://img.shields.io/badge/Claude%20Certified-Architect%20CCA--F-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
 
-<br/>
+<br/><br/>
 
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-257b74264/)
@@ -319,29 +314,25 @@ A structured, domain-by-domain ML portfolio built on messy, real-world-style syn
 <tr>
 <td align="center" width="33%">
 
-<a href="https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4" target="_blank">
-<img src="https://images.credly.com/size/110x110/images/51d357d9-d6b5-48ca-a33e-b0ec98926ec4/image.png" width="90" alt="AWS GenAI Badge"/>
-</a>
+[![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
 
-**AWS Certified**
-Generative AI Developer
-*Professional · Verified on Credly*
+**Generative AI Developer**
+Professional Credential
+*🔗 Verified on Credly*
 
 </td>
 <td align="center" width="33%">
 
-<a href="https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc" target="_blank">
-<img src="https://images.credly.com/size/110x110/images/fe64520b-548b-4040-82e7-b95d6cfe9fbc/image.png" width="90" alt="Claude Certified Architect Badge"/>
-</a>
+[![Claude Architect](https://img.shields.io/badge/Claude%20Certified-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
 
-**Claude Certified**
-Architect — CCA-F
-*Professional · Verified on Credly*
+**Architect — CCA-F**
+Professional Credential
+*🔗 Verified on Credly*
 
 </td>
 <td align="center" width="33%">
 
-![TCS](https://img.shields.io/badge/TCS-1C4E9D?style=for-the-badge&logoColor=white)
+![TCS](https://img.shields.io/badge/TCS%20Hackathon-1C4E9D?style=for-the-badge&logoColor=white)
 
 **🏆 Runner-Up**
 TCS AI Friday Hackathon
@@ -350,6 +341,8 @@ TCS AI Friday Hackathon
 </td>
 </tr>
 </table>
+
+<br/>
 
 ![Udemy](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Generative%20AI%20Fundamentals-Microsoft-0089D6?style=flat-square&logo=microsoft&logoColor=white)
