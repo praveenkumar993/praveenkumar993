@@ -84,8 +84,8 @@ Real-time freight risk platform ingesting live weather, traffic & news across **
 
 `Kafka` `Spark` `Airflow` `XGBoost` `LangGraph` `MLflow` `Docker`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://freight-risk-ai.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/freight-risk-ai)
 
 </td>
 <td width="50%" valign="top">
@@ -102,8 +102,8 @@ Real-time freight risk platform ingesting live weather, traffic & news across **
 
 `CrewAI` `LangGraph` `Groq` `MCP` `LangSmith` `React` `FastAPI`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://bharat-equity-agent.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/bharat-equity-agent)
 
 </td>
 </tr>
@@ -121,8 +121,8 @@ Autonomous AI platform that ingests infrastructure incident logs, performs root 
 - 🖥️ React + Framer Motion real-time dashboard with multi-format log ingestion
 
 `CrewAI` `LangChain` `Groq` `ChromaDB` `LangSmith` `React` `FastAPI`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://incident-ai-eight.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/incident-ai)
 
 </td>
 <td width="50%" valign="top">
@@ -164,7 +164,7 @@ Enterprise credit risk platform engineered from **57M+ rows** across 8 tables on
 - 🌐 Live REST API + Streamlit dashboard on Docker/Render
 
 `LightGBM` `SHAP` `Optuna` `MLflow` `FastAPI` `Streamlit` `Docker`
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://creditiq-dashboard-xalv.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/loan-default-prediction)
 
 </td>
@@ -181,7 +181,7 @@ End-to-end multi-task NLP pipeline automating analysis of invoices, emails, supp
 - 🏗️ LangGraph NLP pipeline — trained with mixed precision (fp16) + MLflow tracking
 
 `PyTorch` `HuggingFace` `LangGraph` `ChromaDB` `FastAPI` `Streamlit`
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://doculens-ui.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/nlp-document-analyzer)
 
 </td>
