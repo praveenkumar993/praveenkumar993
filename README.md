@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Credly Certification Badges -->
-[![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-Generative%20AI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
-[![Claude Architect](https://img.shields.io/badge/Claude%20Certified-Architect%20CCA--F-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
+[![AWS Certified GenAI Professional](https://img.shields.io/badge/AWS%20Certified%20GenAI%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
+[![Claude Certified Architect CCA-F](https://img.shields.io/badge/Claude%20Certified%20Architect%20CCA--F-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
 
 <br/>
 
@@ -314,7 +314,7 @@ A structured, domain-by-domain ML portfolio built on messy, real-world-style syn
 <tr>
 <td align="center" width="33%">
 
-[![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
+[![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
 
 **Generative AI Developer**
 Professional Credential
@@ -323,7 +323,7 @@ Professional Credential
 </td>
 <td align="center" width="33%">
 
-[![Claude Architect](https://img.shields.io/badge/Claude%20Certified-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/fe64520b-548b-4040-82e7-b95d6cfe9fbc)
+[![Claude Architect](https://img.shields.io/badge/Claude%20Certified-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/earner/earned/badge/51d357d9-d6b5-48ca-a33e-b0ec98926ec4)
 
 **Architect — CCA-F**
 Professional Credential
