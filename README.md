@@ -1,17 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Praveen%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Praveen%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20AWS%20Certified%20GenAI%20Professional%20%7C%20Claude%20Certified%20Architect&descAlignY=55&descSize=14&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+LLMs+%7C+RAG+Pipelines;Agentic+AI+%7C+LangGraph+%7C+CrewAI;MLOps+%7C+FastAPI+%7C+Azure+ML;NLP+%7C+PyTorch+%7C+Transformer+Fine-tuning;Turning+Research+into+Production-Grade+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+LLMs+%7C+RAG+Pipelines;Agentic+AI+%7C+LangGraph+%7C+CrewAI;MLOps+%7C+FastAPI+%7C+Azure+AI+Services;NLP+%7C+PyTorch+%7C+Transformer+Fine-tuning;Turning+Research+into+Production-Grade+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Certification badges -->
+![AWS GenAI](https://img.shields.io/badge/AWS%20Certified-Generative%20AI%20Developer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude Architect](https://img.shields.io/badge/Claude%20Certified-Architect%20CCA--F-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+
+<br/><br/>
+
+<!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-257b74264/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenkumar993)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkumards913@gmail.com)
-[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Phone](https://img.shields.io/badge/+91%209398674451-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919398674451)
 [![Open To Work](https://img.shields.io/badge/Open%20To%20Work-AI%2FML%20Roles-00B37D?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 <br/>
@@ -26,13 +33,15 @@
 
 ```python
 class PraveenKumar:
-    role        = "AI/ML Engineer @ Tata Consultancy Services (R&D)"
-    focus       = ["Generative AI", "LLMs", "RAG Pipelines", "Agentic AI", "NLP"]
-    stack       = ["Python", "LangChain", "LangGraph", "PyTorch", "FastAPI", "Docker", "Azure ML"]
-    education   = "MCA — Sri Venkateswara College of Engineering  |  GPA: 8.5 / 10"
-    currently   = "Designing enterprise GenAI systems with Responsible AI guardrails"
-    open_to     = "Full-time AI/ML Engineering roles — GenAI, MLOps, NLP, Applied ML"
-    philosophy  = "Ship production AI, not just prototypes."
+    role         = "AI/ML Engineer @ Tata Consultancy Services (R&D)"
+    focus        = ["Generative AI", "LLMs", "RAG Pipelines", "Agentic AI", "NLP"]
+    stack        = ["Python", "LangGraph", "PyTorch", "FastAPI", "Docker", "Azure AI Services"]
+    cloud        = ["Azure OpenAI", "Azure AI Foundry", "Azure AI Search", "Azure ML", "Azure Databricks"]
+    certifications = ["AWS Certified GenAI Developer – Professional", "Claude Certified Architect (CCA-F)"]
+    education    = "MCA — Sri Venkateswara College of Engineering  |  GPA: 8.5 / 10"
+    currently    = "Designing enterprise GenAI systems with Responsible AI guardrails"
+    open_to      = "Full-time AI/ML Engineering roles — GenAI, MLOps, NLP, Applied ML"
+    philosophy   = "Ship production AI, not just prototypes."
 ```
 
 > *AI/ML Engineer with hands-on experience building end-to-end systems — from fine-tuning transformers and designing multi-agent pipelines to deploying MLOps-tracked REST APIs on Azure ML. I care about accuracy, explainability, and AI that actually works at scale.*
@@ -164,7 +173,7 @@ Enterprise credit risk platform engineered from **57M+ rows** across 8 tables on
 #### 🔬 DocuLens
 **NLP Multi-Task Document Analyzer**
 
-End-to-end multi-task NLP pipeline automating analysis of invoices, emails, support tickets & news articles — structured insights in seconds.
+End-to-end multi-task NLP pipeline automating analysis of invoices, emails, support tickets & news articles.
 
 - 🏷️ DistilBERT fine-tuned on WikiANN → **NER F1: 92.63%**
 - 📊 BERT-base fine-tuned on AG News → **Classifier F1: 92.77%**
@@ -183,7 +192,7 @@ End-to-end multi-task NLP pipeline automating analysis of invoices, emails, supp
 #### 💰 FinNudge
 **Real-Time Financial Personalization Engine**
 
-Behavioral personalization engine that learns individual user financial patterns and serves hyper-relevant product nudges — built on a Two-Tower neural retrieval model.
+Behavioral personalization engine learning individual financial patterns to serve hyper-relevant product nudges.
 
 - 🧠 Two-Tower PyTorch model (contrastive loss) → **Recall@3: 47.9%** (3.2× over random)
 - ⚡ FAISS vector index → **5ms** hot-path inference latency
@@ -201,10 +210,10 @@ Behavioral personalization engine that learns individual user financial patterns
 #### 📚 RealWorld-DS-ML
 **Production-Style DS/ML Learning Portfolio**
 
-A structured, domain-by-domain ML portfolio built on synthetically generated messy, real-world-style data — not clean Kaggle sets.
+A structured, domain-by-domain ML portfolio built on messy, real-world-style synthetic data — not clean Kaggle sets.
 
 - 🏗️ Covers Ride Sharing, Healthcare, E-Commerce & Finance domains
-- 📋 Every cleaning decision, model selection & feature choice is documented & justified
+- 📋 Every cleaning decision, model selection & feature choice documented & justified
 - 🔁 Rigorous workflow: Data Gen → EDA → Feature Engineering → Model Comparison → SHAP
 - 🎯 15 projects planned across 4 industry verticals
 
@@ -228,41 +237,39 @@ A structured, domain-by-domain ML portfolio built on synthetically generated mes
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**Generative AI & LLMs**
+**Generative AI & Agentic Frameworks**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **Deep Learning & NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-**ML / MLOps**
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Data Engineering**
+**Azure Cloud Services**
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Infrastructure & Cloud**
+**Infrastructure & Deployment**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure%20ML-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -277,7 +284,7 @@ A structured, domain-by-domain ML portfolio built on synthetically generated mes
     │
     ├─ Designed & built GenAI workflows: LLM-powered pipelines, Agentic AI, RAG architectures
     ├─ RAG with ChromaDB — hallucination mitigation guardrails + Responsible AI compliance
-    ├─ REST API model deployment on Azure ML with full MLOps/LLMOps lifecycle
+    ├─ Model deployment via REST APIs on Azure ML — MLOps/LLMOps + Git-based version control
     └─ ETL workflows, data preparation, document annotation for NLP/ML pipelines
 
 🔬  RayIoT Solutions Pvt Ltd            Data Analyst Intern          Apr 2025 – May 2025
@@ -290,22 +297,56 @@ A structured, domain-by-domain ML portfolio built on synthetically generated mes
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 | Degree | Institution | GPA |
 |--------|-------------|:---:|
 | **MCA** · Master of Computer Applications | Sri Venkateswara College of Engineering, Tirupati | **8.5 / 10** |
 | **BSc** · Computer Science | Sri Venkateswara Arts College, Tirupati | **9.0 / 10** |
 
-<br/>
+---
 
-🏆 &nbsp;**Runner-Up** — TCS AI Friday Hackathon &nbsp;·&nbsp; *Top 2 of 20 teams — applied AI problem solving under competitive conditions*
+## 📜 Certifications & Achievements
 
-<br/>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**AWS Certified**
+Generative AI Developer
+*Professional Credential*
+
+</td>
+<td align="center" width="33%">
+
+![Anthropic](https://img.shields.io/badge/Anthropic-7C3AED?style=for-the-badge&logoColor=white)
+
+**Claude Certified**
+Architect — CCA-F
+*Professional Credential*
+
+</td>
+<td align="center" width="33%">
+
+![TCS](https://img.shields.io/badge/TCS-1C4E9D?style=for-the-badge&logoColor=white)
+
+**🏆 Runner-Up**
+TCS AI Friday Hackathon
+*Top 2 of 20 teams*
+
+</td>
+</tr>
+</table>
 
 ![Udemy](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Generative%20AI%20Fundamentals-Microsoft-0089D6?style=flat-square&logo=microsoft&logoColor=white)
 ![IBM](https://img.shields.io/badge/Introduction%20to%20Data%20Analytics-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+
+</div>
 
 ---
 
