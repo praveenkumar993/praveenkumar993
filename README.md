@@ -300,15 +300,6 @@ A structured, domain-by-domain ML portfolio built on messy, real-world-style syn
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | GPA |
-|--------|-------------|:---:|
-| **MCA** · Master of Computer Applications | Sri Venkateswara College of Engineering, Tirupati | **8.5 / 10** |
-| **BSc** · Computer Science | Sri Venkateswara Arts College, Tirupati | **9.0 / 10** |
-
----
-
 ## 📜 Certifications & Achievements
 
 <div align="center">
