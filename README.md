@@ -288,7 +288,7 @@ A structured, domain-by-domain ML portfolio built on messy, real-world-style syn
     ├─ Designed & built GenAI workflows: LLM-powered pipelines, Agentic AI, RAG architectures
     ├─ RAG with ChromaDB — hallucination mitigation guardrails + Responsible AI compliance
     ├─ Model deployment via REST APIs on Azure ML — MLOps/LLMOps + Git-based version control
-    └─ ETL workflows, data preparation, document annotation for NLP/ML pipelines
+    └─ ETL workflows, data preparation, document annotation for ML pipelines
 
 🔬  RayIoT Solutions Pvt Ltd            Data Analyst Intern          Apr 2025 – May 2025
     │   Bangalore, Karnataka
