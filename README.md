@@ -72,30 +72,6 @@ class PraveenKumar:
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ Enterprise Migration Copilot
-**AI-powered Legacy SQL → PySpark Migration Platform**
-
-Knowledge distillation pipeline using Claude as teacher + fine-tuned small models as production LLM — zero inference cost, enterprise-grade validation.
-- 🧠 6-Agent LangGraph Pipeline (Parser → Analyze → RAG → Migrate → Validate → Risk)
-- 🎯 Fine-tuned 3 models (DeepSeek/Qwen/Phi) → **57% benchmark pass rate** (vs 98% Claude Sonnet)
-- 🔍 Hybrid RAG (ChromaDB + BM25) + PII detection (PAN/Aadhaar/credit card) + risk scoring
-- 📊 1,312 validated training pairs across SQL/HiveQL/PL-SQL/Stored Procedures — 4 difficulty tiers
-- ☁️ FastAPI + React + Prometheus/Grafana + Render + Vercel — **zero cloud spend**
-  
-`LangGraph` `LangSmith` `LoRA` `ChromaDB` `FastAPI` `React` `Ollama` `HuggingFace`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://enterprise-migration-copilot.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar993/enterprise-migration-copilot)
-[![Dataset](https://img.shields.io/badge/Dataset-FF9900?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/praveends/enterprise-migration-dataset)
-[![Models](https://img.shields.io/badge/Models-FF9900?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/praveends)
-
-</td>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🚛 FreightRisk AI
 **India Highway Freight Risk Intelligence**
 
