@@ -374,9 +374,9 @@ TCS AI Friday Hackathon
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar993&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=praveenkumar993&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar993&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar993&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <br/>
 
